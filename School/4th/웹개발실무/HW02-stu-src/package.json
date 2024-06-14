@@ -1,0 +1,16 @@
+{
+  "name": "quiz01_movie",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "formidable": "^1.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
